@@ -17,7 +17,7 @@
 
   - ```sudo  apt-get upgrade -y```
 
-  - ```git clone https://github.com/Atharva-TheCoder/nusit```
+  - ```git clone https://github.com/Atharva-TheCoder/nusit.git```
 
   - ```cd nusit```
 
@@ -26,7 +26,7 @@
 - ### For Termux
   - ```pkg update && pkg upgrade -y```
 
-  - ```git clone https://github.com/Atharva-TheCoder/nusit```
+  - ```git clone https://github.com/Atharva-TheCoder/nusit.git```
 
   - ```cd nusit```
 
