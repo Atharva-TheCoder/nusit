@@ -10,7 +10,7 @@
 
 ### Installation process (Linux and Termux)
 
-**Remember:** Python must already be installed in your system.
+**Remember:** Python must be installed in your system.
 
 - ### For Linux
   - ```sudo apt-get update -y```
@@ -21,6 +21,8 @@
 
   - ```cd nusit```
 
+  - ```chmod +x install.sh```
+ 
   - ```sudo ./install.sh```
 
 - ### For Termux
