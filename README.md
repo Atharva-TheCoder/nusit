@@ -31,3 +31,5 @@
   - ```cd nusit```
 
   - ```bash install.sh``` or ```./install.sh```
+ 
+  After installation, to run a program, just type ```nusit``` in your terminal and hit Enter.
